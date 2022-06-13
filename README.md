@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @jeseduardopi
-- 👀 I’m interested in Web Development and Music.
+- 👋 Hi, I’m Eduardo Pina
+- 👀 I am in Web a Web Developer and Musician
 - 🌱 I’m currently learning ThreeJS and WebGL
 - 💞️ I’m looking to collaborate on MERN or MEAN stack projects.
 - 📫 You can contact me to my mail jeseduardopi@gmail.com

@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Eduardo Pina
 - 👀 I am in Web a Web Developer and Musician
-- 🌱 I’m currently learning ThreeJS and WebGL
+- 🌱 I’m currently learning full stack web development, but in my free time I like to learn ThreeJS.
 - 💞️ I’m looking to collaborate on MERN or MEAN stack projects.
 - 📫 You can contact me to my mail jeseduardopi@gmail.com
 - 👨🏻‍💻 Visit my website 👉🏻 https://eduardevs.website/

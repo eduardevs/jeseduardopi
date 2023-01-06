@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning full stack web development, but in my free time I like to learn ThreeJS.
 - 💞️ I’m looking to collaborate on MERN or MEAN stack projects.
 - 📫 You can contact me to my mail jeseduardopi@gmail.com
-- 👨🏻‍💻 Visit my website 👉🏻 https://eduardevs.website/
+- 👨🏻‍💻 Visit my website 👉🏻 https://polite-lily-07f9bd.netlify.app/
 
 <!---
 jeseduardopi/jeseduardopi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
